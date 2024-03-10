@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://incandescent-baklava-41e5e5.netlify.app/
+- Live Site URL: https://matiasrojo-rating-component.netlify.app/
 
 ### Built with
 
